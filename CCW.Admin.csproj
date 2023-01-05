@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CCW.Common\CCW.Common.csproj" />
+    <ProjectReference Include="..\..\insight\CSSA\CSSA-CCW\API\CCW.Common\CCW.Common.csproj" />
   </ItemGroup>
 
 </Project>
