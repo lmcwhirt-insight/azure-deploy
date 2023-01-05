@@ -1,0 +1,14 @@
+﻿{
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "CCW.Admin": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "admin/swagger",
+      "applicationUrl": "http://localhost:5052",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
